@@ -1,2 +1,2 @@
-# js-mantosh-raj
+# js-mantosh-kumar
 A code for javascript
